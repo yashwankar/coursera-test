@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Coursera Web Development Pages Repository
 
-You can use the [editor on GitHub](https://github.com/yashwankar/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Web Devlopment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.
 
 ```markdown
-Syntax highlighted code block
+This Repository contains : 
 
-# Header 1
-## Header 2
-### Header 3
+# HTML
+## CSS
+### JavaScript
 
-- Bulleted
-- List
+We will have :-
+**Assignments** and _Quality Content_ and `Coding` stuff.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yashwankar/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This Page site uses the layout and styles from the Jekyll theme for [repository settings](https://github.com/yashwankar/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
